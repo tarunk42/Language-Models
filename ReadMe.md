@@ -3,7 +3,11 @@
 
 ## [RNN Tutorial](https://www.youtube.com/watch?v=WEV61GmmPrk&ab_channel=PatrickLoeber)
 
-![](/Language-Models/images/PyTorch%20RNN%201.jpeg)
-![](/Language-Models/images/PyTorch%20RNN%202.jpeg)
+
+<img src="/images/PyTorch RNN 1.jpeg" width=200px/>
+<img src="/images/PyTorch RNN 2.jpeg"/>
+
+
+
 
 #### Please feel free to use this repository. Thank you
