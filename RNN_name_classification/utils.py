@@ -4,7 +4,7 @@ import unicodedata
 import string
 import glob
 
-import torch
+import torch # type: ignore
 import random
 
 # alphabet small + capital letters + " .,;'"
