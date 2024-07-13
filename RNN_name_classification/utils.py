@@ -32,7 +32,7 @@ def load_data():
         lines = io.open(filename, encoding='utf-8').read().strip().split('\n')
         return [unicode_to_ascii(line) for line in lines]
     
-    for filename in find_files('./1. RNN Tutorial/data/names/*.txt'):
+    for filename in find_files('./RNN_name_classification/data/names/*.txt'):
         category = os.path.splitext(os.path.basename(filename))[0]
         all_categories.append(category)
 
