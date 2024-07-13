@@ -4,8 +4,12 @@
 ## [RNN Tutorial](https://www.youtube.com/watch?v=WEV61GmmPrk&ab_channel=PatrickLoeber)
 
 
-<img src="/images/PyTorch RNN 1.jpeg" width=200px/>
-<img src="/images/PyTorch RNN 2.jpeg"/>
+<img src="/images/PyTorch RNN 1.jpeg" width=500px/><br>
+<img src="/images/PyTorch RNN 2.jpeg" width=500px/><br>
+<img src="/images/PyTorch RNN 3.jpeg" width=500px/><br>
+<img src="/images/PyTorch RNN 4.jpeg" width=500px/><br>
+<img src="/images/PyTorch RNN 5.jpeg" width=500px/><br>
+<img src="/images/PyTorch RNN 6.jpeg" width=500px/><br>
 
 
 
