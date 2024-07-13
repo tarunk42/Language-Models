@@ -1,4 +1,6 @@
-/env
+env
 /__pycache__
 utils.cpython-312.pyc
 .DS_Store
+/RNN_name_classification/env
+/RNN_name_classification/__pycache__
