@@ -5,3 +5,4 @@ utils.cpython-312.pyc
 /RNN_name_classification/env
 /RNN_name_classification/__pycache__
 /RNN_LSTM_GRU/data
+/.DS_Store
